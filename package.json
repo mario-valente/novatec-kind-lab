@@ -1,0 +1,10 @@
+{
+  "name": "novatec-kind-lab",
+  "private": true,
+  "scripts": {
+    "test:browser": "node tests/browser.mjs"
+  },
+  "devDependencies": {
+    "playwright-core": "1.56.1"
+  }
+}
